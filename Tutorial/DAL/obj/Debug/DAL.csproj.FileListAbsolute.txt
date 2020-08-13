@@ -1,0 +1,7 @@
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\bin\Debug\DAL.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\bin\Debug\DAL.pdb
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\bin\Debug\EN.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\bin\Debug\EN.pdb
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\obj\Debug\DAL.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\obj\Debug\DAL.pdb

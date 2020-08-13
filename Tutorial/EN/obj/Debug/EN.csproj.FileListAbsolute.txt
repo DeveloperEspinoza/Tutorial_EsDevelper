@@ -1,0 +1,5 @@
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\bin\Debug\EN.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\bin\Debug\EN.pdb
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\obj\Debug\EN.dll
+C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\obj\Debug\EN.pdb
