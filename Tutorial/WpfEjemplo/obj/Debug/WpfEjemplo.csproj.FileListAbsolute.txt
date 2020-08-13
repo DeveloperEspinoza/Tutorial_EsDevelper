@@ -20,3 +20,25 @@ C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\WpfE
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.csproj.GenerateResource.Cache
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.exe
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\WpfEjemplo.exe.config
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.exe
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.csprojResolveAssemblyReference.cache
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\Consulta.g.cs
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\MainWindow.g.cs
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\App.g.cs
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo_MarkupCompile.cache
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo_MarkupCompile.lref
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\WpfEjemplo.exe
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\WpfEjemplo.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\BL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\EN.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\DAL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\BL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\EN.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\bin\Debug\DAL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\Consulta.baml
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\MainWindow.baml
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.g.resources
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.Properties.Resources.resources
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\WpfEjemplo\obj\Debug\WpfEjemplo.csproj.GenerateResource.Cache

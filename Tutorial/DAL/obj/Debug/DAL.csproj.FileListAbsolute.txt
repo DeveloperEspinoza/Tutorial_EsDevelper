@@ -5,3 +5,10 @@ C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\obj\Debug\DAL.dll
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\DAL\obj\Debug\DAL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\bin\Debug\DAL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\bin\Debug\DAL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\bin\Debug\EN.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\bin\Debug\EN.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\obj\Debug\DAL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\DAL\obj\Debug\DAL.pdb

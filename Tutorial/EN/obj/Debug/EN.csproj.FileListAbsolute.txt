@@ -3,3 +3,8 @@ C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\b
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\obj\Debug\EN.dll
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\EN\obj\Debug\EN.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\EN\bin\Debug\EN.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\EN\bin\Debug\EN.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\EN\obj\Debug\EN.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\EN\obj\Debug\EN.pdb

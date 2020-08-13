@@ -97,6 +97,11 @@ namespace WpfEjemplo
             this.Close();
             _ver.ShowDialog();
         }
+
+        private void txtmostrar_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
     }
 

@@ -7,3 +7,12 @@ C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\BL\b
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\BL\obj\Debug\BL.dll
 C:\Users\Karla\Desktop\Jonathan Cheverria\Arquitectura de Software\Tutorial\BL\obj\Debug\BL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\bin\Debug\BL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\bin\Debug\BL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\bin\Debug\DAL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\bin\Debug\EN.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\bin\Debug\DAL.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\bin\Debug\EN.pdb
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\obj\Debug\BL.dll
+C:\Users\Luise\Developers\git\.net\Tutorial_EsDevelper\Tutorial\BL\obj\Debug\BL.pdb
